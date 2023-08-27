@@ -1,17 +1,6 @@
 {
   "questions": [
     {
-      "id": 1,
-      "prompt": "What special prop should always be included for lists of elements?",
-      "answers": [
-        "id",
-        "name",
-        "key",
-        "prop"
-      ],
-      "correctIndex": 2
-    },
-    {
       "id": 2,
       "prompt": "A React component is a function that returns ______.",
       "answers": [
@@ -20,7 +9,7 @@
         "props",
         "state"
       ],
-      "correctIndex": 1
+      "correctIndex": "1"
     },
     {
       "id": 3,
@@ -31,7 +20,7 @@
         "onChange",
         "onForm"
       ],
-      "correctIndex": 0
+      "correctIndex": "1"
     },
     {
       "id": 4,
@@ -53,27 +42,18 @@
         "coalescing",
         "destructuring"
       ],
-      "correctIndex": 3
+      "correctIndex": 2
     },
     {
-      "id": 6,
-      "prompt": "Returning different elements from a component depending on the state of your application is known as _____ rendering.",
+      "prompt": "What is my white cat's name?",
       "answers": [
-        "voodoo",
-        "conditional",
-        "reactive",
-        "controlled"
+        "Tofu",
+        "Mochi",
+        "Bluey",
+        "Bingo"
       ],
-      "correctIndex": 1
-    },
-    {
-      "prompt": "What do cats say?",
-      "answer1": "Meow",
-      "answer2": "Arf",
-      "answer3": "Woof",
-      "answer4": "Awoo",
       "correctIndex": 0,
-      "id": 7
+      "id": 6
     }
   ]
 }
